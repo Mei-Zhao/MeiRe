@@ -1,3 +1,11 @@
+---
+name: 'Bug report'
+about: 'Report a bug to help us improve'
+title: ''
+labels: ''
+assignees: ''
+
+---
 ## What happens?实际结果与预期结果
 <!-- 清晰的描述下遇到的问题。-->
 
