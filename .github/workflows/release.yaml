@@ -4,7 +4,7 @@ on:
 env:
   CGO_ENABLED: 0
 
-name: Release qshell
+name: Release 
 jobs:
   releases-matrix:
     name: Release Go Binary
