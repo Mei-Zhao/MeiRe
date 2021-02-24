@@ -11,6 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+      GO111MODULE: off 
     strategy:
       matrix:
         goos: [linux, windows, darwin]
